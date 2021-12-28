@@ -1,5 +1,5 @@
 # Chibi Friends Chat
-An offline version of an very old Penguin Chat 3 variant called Chibi Friends Chat.
+An offline version of an very old Penguin Chat 3 variant called Chibi Friends Chat. Note: Currently you can't change your chibi.
 
 ![Screenshot_165](https://user-images.githubusercontent.com/83605971/147520336-8a35f495-11a4-4981-b8fe-c3d948eedca0.png)
 
