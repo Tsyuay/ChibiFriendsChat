@@ -16,3 +16,6 @@ An offline version of an very old Penguin Chat 3 variant called Chibi Friends Ch
 # Change Name
 
 To change name, just change the preuserName string in the embedded Flash in index.html.
+
+![Screenshot_166](https://user-images.githubusercontent.com/83605971/147521985-b2a482c2-fd02-4fc1-ae8a-8d8be2bcf89c.png)
+
