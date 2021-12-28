@@ -12,3 +12,7 @@ An offline version of an very old Penguin Chat 3 variant called Chibi Friends Ch
 5. Run XAMPP and click Start in both texts Apache and MySQL
 6. Run Basilisk Portable With Flash Player
 7. Open http://localhost and have fun!
+
+# Change Name
+
+To change name, just change the preuserName string in the flash embed in index.html.
